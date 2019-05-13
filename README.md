@@ -1,4 +1,5 @@
 # webpack
+http://note.youdao.com/noteshare?id=bb1e1068dc9945d9410932c2d32dcd10&sub=C3D9B5C48F6847E2823AD679FEC65EA2
 1 npm init 就有package.json
 2安装npm i webpack vue vue-loader css-loader vue-template-compiler
 3创建src文件夹
